@@ -1,6 +1,6 @@
 # 📌 Syntax Scrum Team
 
-![Banner](./img/YNTAX.png)
+![Banner](./YNTAX.png)
 
 > Equipe formada por alunos de Desenvolvimento de Software Multiplataforma para realização de Projetos de Aprendizagem Integrada (APIs) pela FATEC São José dos Campos.
 
